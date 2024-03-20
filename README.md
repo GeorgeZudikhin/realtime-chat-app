@@ -2,6 +2,7 @@
 This project is a Real-Time Chat Application that facilitates instant messaging between users. Leveraging modern technologies, this application ensures real-time communication with high reliability and scalability.
 
 # 📦 Technologies:
+• React      
 • Java      
 • Spring Boot    
 • PostgreSQL       
