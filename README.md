@@ -10,6 +10,7 @@ This project is a Real-Time Chat Application that facilitates instant messaging 
 • Apache Kafka         
 • WebSockets   
 • Docker    
+• AWS ECS    
 
 # 👩🏽‍🍳 Features:
 • User registration and authentication with secure JWT tokens    
